@@ -1,3 +1,3 @@
 **loic est beau (fact)**
 
-*et intelligent*
+*et pas intelligent mais presque*
