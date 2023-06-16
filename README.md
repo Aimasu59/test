@@ -8,3 +8,5 @@ repo pour tester la librairie JS Git-simple
 **les images marche pas**
 
 **test add**
+
+**test merge**
