@@ -1,1 +1,1 @@
-**loic est beau**
+**loic est beau (fact)**
