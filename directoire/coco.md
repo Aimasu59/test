@@ -1,3 +1,3 @@
 *coco est beau*
 
-**et intelligent**
+**et intelligent peut-être**
