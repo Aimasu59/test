@@ -10,3 +10,5 @@ repo pour tester la librairie JS Git-simple
 **test add**
 
 **test merge**
+
+**envie de mourir**
