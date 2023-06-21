@@ -1,3 +1,3 @@
 **le bg des directoires**
 
-# nul à brawlstar
+# trop fort le poto
